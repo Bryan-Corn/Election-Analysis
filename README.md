@@ -24,4 +24,9 @@ This code reports the following to the terminal and creates a .txt file with the
   • Winning vote percentage
   
   ### The terminal output looks like this:
-  ![image](
+  ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/election_analysis_output_terminal.png)
+  
+  ### The .txt file looks like this:
+  ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/election_analysis_output_txt.png)
+  
+  
