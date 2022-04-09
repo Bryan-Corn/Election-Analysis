@@ -2,7 +2,7 @@
 Bootcamp module 3 Python
 
 ## Project OVerview
-To audit election results, the Colorado Board of Elections has requested that a script is delivered that will calculate and report:
+To audit election results provided in a csv file, the Colorado Board of Elections has requested that a script is delivered that will calculate and report:
 ```
   • The total number of votes cast
   • A complete list of candidates that received votes
