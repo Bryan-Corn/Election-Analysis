@@ -4,13 +4,13 @@ Bootcamp module 3 Python
 ## Project OVerview
 To audit election results, the Colorado Board of Elections has requested that a script is delivered that will calculate and report:
 
-,,,
+'''
   • The total number of votes cast
   • A complete list of candidates that received votes
   • The total number of votes each candidate received
   • The percentage of votes won by each candidate
   • The winner of the election based on the popular vote
-,,,
+'''
 
   ## Resources
   • Data source: election_analysis.csv
