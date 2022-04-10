@@ -65,9 +65,11 @@ As shown in the opdated code output:
 ## Further Utility of this Code
 
 This code can be used, without modification, to analize vote count data from any election for a single race provided that the csv file is structured in the same column format and has a header row:
+```
   • Column 0: Ballot ID
   • Column 1: County Name
   • Column 2: Candidate name
+```
  
 The script will work with any number of counties and candidates winning votes for a single race. Replace the election_results.csv in the Resources folder with a new csv file of the same name and restructure the columns if needed.
 
