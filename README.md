@@ -75,5 +75,7 @@ To test this, I added sample data to the csv file to include additional counties
 
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/election_analysis_output_terminal3.png)
 
+
 The additional, modified data is reported in the text file output as such:
+
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/election_analysis_output_txt3.png)
