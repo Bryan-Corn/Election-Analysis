@@ -73,7 +73,7 @@ This code can be used, without modification, to analize vote count data from any
  
 The script will work with any number of counties and candidates winning votes for a single race. Replace the election_results.csv in the Resources folder with a new csv file of the same name and restructure the columns if needed.
 
-To test this, I added sample data to the csv file to include additional counties and an additional candidate. Without changing any of the code, the output is the following in the terminal:
+To test this, I added sample data to the csv file to include additional counties and an additional candidatebringing the total vote count to over 1 million. The script does not slow down to any noticable extent when extending the vote count from ~ 370,000 to 1,000,000 votes. Without changing any of the code in any way, the output is the following in the terminal:
 
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/election_analysis_output_terminal3.png)
 
