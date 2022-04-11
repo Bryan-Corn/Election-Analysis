@@ -98,7 +98,7 @@ The .txt output file is located in the Analysis folder [HERE](https://github.com
 
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/MLB_analysis_output_terminal1.png)
 
-## Conclusion
+## Conclusion 
 
 This code is very efficient and functional for many uses without changing much. It could further expanded to add other variables. In the MLB example, player positions or team legues could be added and included in the output by either creating dictionaires or another column in the CSV data from readily available data.
 
