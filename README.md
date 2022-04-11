@@ -94,7 +94,7 @@ The output shows that this code can be used to analize and report the selection 
 
 Two quick notes about this sample data: The RAND function in Excel is very good at randomizing with an even distribution. Because the teams were randomized first, the vote count for teams is pretty even. Additionally, players on teams where they were the only one on the ballot received a disproportional amount of votes as the row count for teams pretty evenly distributed. Players from tems with several ballot representative consequenlty all received fewer total votes compared to players that were alone from their teams.
 
-The .txt output file is located in the Analysis folder ![link](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Analysis/all_star_ballot_analysis.txt) and the terminal output is as follows:
+The .txt output file is located in the Analysis folder [HERE](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Analysis/all_star_ballot_analysis.txt) and the terminal output is as follows:
 
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/MLB_analysis_output_terminal1.png)
 
