@@ -64,6 +64,8 @@ As shown in the opdated code output:
 
 ## Further Utility of this Code
 
+### Future Elections
+
 This code can be used, without modification, to analize vote count data from any election for a single race provided that the csv file is structured in the same column format and has a header row:
 ```
   • Column 0: Ballot ID
@@ -81,3 +83,23 @@ To test this, I added sample data to the csv file to include additional counties
 The additional, modified data is reported in the text file output as such:
 
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/election_analysis_output_txt3.png)
+
+### MLB All-Star Ballot Analysis example
+
+To further test the applicability of this code to scenarios beyond local election results containing three variables, I created a sample data set containing over one million rows of 2021 MLB All-Star ballot results. I created this in Excel using the RAND function to assign teams to the second column after filling the first column with serialized ballot ID numbers. Then I created lists for each team containing each teams' players that made the team rosters for the 2021 All-Star game and again used RAND to populte the third column with players from the corresponding teams in clumn two.
+
+The only modifications to the code were in the PRINT statements so the output makes sense. Variables were unchanged and references to candidates processed player vote counts and references to counties correspond to teams.
+
+The output shows that this code can be used to analize and report the selection of or from many groups (Counties/Teams) and for many singular selections (Candidates/Players) as this iteration of the code checks through 30 teams and over 100 players.
+
+Two quick notes about this sample data: The RAND function in Excel is very good at randomizing with an even distribution. Because the teams were randomized first, the vote count for teams is pretty even. Additionally, players on teams where they were the only one on the ballot received a disproportional amount of votes as the row count for teams pretty evenly distributed. Players from tems with several ballot representative consequenlty all received fewer total votes compared to players that were alone from their teams.
+
+The .txt output file is located in the Analysis folder HERE and the terminal output is as follows:
+
+![image]()
+
+## Conclusion
+
+This code is very efficient and functional for many uses without changing much. It could further expanded to add other variables. In the MLB example, player positions or team legues could be added and included in the output by either creating dictionaires or another column in the CSV data from readily available data.
+
+Expanding this code to include additional varibles would be pretty straight forward and could include party affiliation or state-level information. Ballot measure results could also be analized with few changes.
