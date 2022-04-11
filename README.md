@@ -103,3 +103,5 @@ The .txt output file is located in the Analysis folder [HERE](https://github.com
 This code is very efficient and functional for many uses without changing much. It could be further expanded to add other variables. In the MLB example, player positions or team's legue could be added and included in the output by either creating dictionaires or another column in the CSV data from readily available data.
 
 Expanding this code for election results to include additional varibles would be pretty straight forward and could include party affiliation or state-level information. For example, ballot measure results could also be analized with few changes.
+
+This code could be further improved by listing results in decending order to more easily identify players and teams with many or few votes and see at a glance the distribution or range of votes for teams and players.
