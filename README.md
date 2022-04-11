@@ -100,6 +100,6 @@ The .txt output file is located in the Analysis folder [HERE](https://github.com
 
 ## Conclusion 
 
-This code is very efficient and functional for many uses without changing much. It could further expanded to add other variables. In the MLB example, player positions or team legues could be added and included in the output by either creating dictionaires or another column in the CSV data from readily available data.
+This code is very efficient and functional for many uses without changing much. It could be further expanded to add other variables. In the MLB example, player positions or team's legue could be added and included in the output by either creating dictionaires or another column in the CSV data from readily available data.
 
-Expanding this code to include additional varibles would be pretty straight forward and could include party affiliation or state-level information. Ballot measure results could also be analized with few changes.
+Expanding this code for election results to include additional varibles would be pretty straight forward and could include party affiliation or state-level information. For example, ballot measure results could also be analized with few changes.
