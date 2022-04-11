@@ -96,7 +96,7 @@ Two quick notes about this sample data: The RAND function in Excel is very good 
 
 The .txt output file is located in the Analysis folder HERE and the terminal output is as follows:
 
-![image]()
+![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/MLB_analysis_output_terminal1.png)
 
 ## Conclusion
 
