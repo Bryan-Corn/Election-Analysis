@@ -1,6 +1,5 @@
 ![image](https://github.com/Bryan-Corn/Election-Analysis/blob/main/Resources/vote.png)
 # Election-Analysis
-Bootcamp challenge 3
 
 ## Project OVerview
 To audit election results provided in a csv file, the Colorado Board of Elections has requested that a script is delivered that will calculate and report:
